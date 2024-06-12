@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=www.lifeandcode.top)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DMichaelWang2000&longCache=true)](https://github.com/MichaelWang2000)
 <!--
 **MichaelWang2000/MichaelWang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
